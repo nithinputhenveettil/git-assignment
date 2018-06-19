@@ -1,0 +1,5 @@
+# ignore an entire directory
+/ignore/*
+
+# ignore a single file
+!/ignore/present.txt
