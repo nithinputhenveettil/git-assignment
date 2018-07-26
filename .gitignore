@@ -1,0 +1,4 @@
+# Ignore every file inside 'ignore' except 'present.txt'
+
+ignore/**
+!ignore/present.txt
