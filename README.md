@@ -1,69 +1,68 @@
-#Basic git commands
+# Basic git commands
 
-###git cofig
-'''
+### git cofig
+
 Tell Git who you are
-'''
 
-###git init
-'''
+
+### git init
+
 Create a new local repository
-'''
 
-###git clone <path>
-'''
+
+### git clone <path>
+
 Check out a repository
-'''
-###git add <filename>
-'''
+
+### git add <filename>
+
 Add files
-'''
 
-###git commit -m ""
-'''
+
+### git commit -m ""
+
 Commit changes to head
-'''
 
-###git push origin master
-'''
+
+### git push origin master
+
 Send changes to the master branch of your remote repo
-'''
 
-###git status
-'''
+
+### git status
+
 list the files you have changes
-'''
 
-###git log
-'''
+
+### git log
+
 list all the commits
-'''
 
-###git remote -v
-'''
+### git remote -v
+
 List all currently configured remote repo
-'''
 
-###git checkout -b <branchname>
-'''
+
+### git checkout -b <branchname>
+
 create a new branch and switch to it
-'''
 
-###git branch
-'''
+
+### git branch
+
 list all branches in your repo
-'''
 
-###git pull
-'''
+
+### git pull
+
 Update from the remote repo
-'''
 
-###git merge <branchname>
-'''
+
+### git merge <branchname>
+
 To merge a different branch into your active branch
-'''
-###git diff
-'''
+
+### git diff
+
 view all merge conflicts
-'''
+
