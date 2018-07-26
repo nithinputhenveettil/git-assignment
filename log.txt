@@ -1,0 +1,19 @@
+9c81c4c HEAD@{0}: commit: edited README
+29a960d HEAD@{1}: commit (amend): This is a combination of 2 commits.
+cbfdb30 HEAD@{2}: rebase -i (finish): returning to refs/heads/develop
+cbfdb30 HEAD@{3}: rebase -i (squash): This is a combination of 2 commits.
+4f81391 HEAD@{4}: rebase -i (start): checkout HEAD~2
+13d7842 HEAD@{5}: rebase: aborting
+2c09fc4 HEAD@{6}: rebase -i (start): checkout HEAD~2
+13d7842 HEAD@{7}: commit (amend): Readme and ignore commit
+eed80b9 HEAD@{8}: rebase -i (finish): returning to refs/heads/develop
+eed80b9 HEAD@{9}: rebase -i (pick): changed the second commit
+4f81391 HEAD@{10}: rebase -i (pick): third commit
+2c09fc4 HEAD@{11}: rebase -i (reword): changd the second commit
+311b9ef HEAD@{12}: cherry-pick: fast-forward
+6e61d9a HEAD@{13}: rebase -i (start): checkout HEAD~3
+01408b8 HEAD@{14}: rebase: aborting
+01408b8 HEAD@{15}: commit (amend): changed the second commit
+24f8be2 HEAD@{16}: commit: initial commit
+1ec27fc HEAD@{17}: checkout: moving from master to develop
+6e61d9a HEAD@{18}: clone: from https://github.com/amalkqb/git-assignment.git
