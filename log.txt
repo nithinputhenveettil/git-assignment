@@ -1,0 +1,40 @@
+1ae8ee0 HEAD@{0}: commit (amend): Readme Edit
+ecdc4e6 HEAD@{1}: commit: Readme edit
+914e1d0 HEAD@{2}: commit (amend): Combined commits
+c87e00c HEAD@{3}: commit (amend): Combined commits
+e2f5187 HEAD@{4}: rebase -i (finish): returning to refs/heads/develop
+e2f5187 HEAD@{5}: rebase -i (start): checkout e2f5187aa3d8102fdc79a250dac0246cf8fa7496
+e2f5187 HEAD@{6}: rebase -i (finish): returning to refs/heads/develop
+e2f5187 HEAD@{7}: rebase -i (start): checkout e2f5187aa3d8102fdc79a250dac0246cf8fa7496
+e2f5187 HEAD@{8}: rebase -i (finish): returning to refs/heads/develop
+e2f5187 HEAD@{9}: rebase -i (start): checkout e2f5187aa3d8102fdc79a250dac0246cf8fa7496
+e2f5187 HEAD@{10}: commit (amend): Combined commits
+093b0f3 HEAD@{11}: commit (amend): Combined commits
+9a796db HEAD@{12}: commit (amend): Combined commits
+5c12ed2 HEAD@{13}: commit (amend): Combined commits
+3d499d4 HEAD@{14}: rebase -i (finish): returning to refs/heads/develop
+3d499d4 HEAD@{15}: rebase -i (start): checkout HEAD~2
+3d499d4 HEAD@{16}: rebase -i (finish): returning to refs/heads/develop
+3d499d4 HEAD@{17}: rebase -i (squash): third commit
+9799f2c HEAD@{18}: rebase -i (start): checkout HEAD~2
+10d72cb HEAD@{19}: rebase -i (finish): returning to refs/heads/develop
+10d72cb HEAD@{20}: rebase -i (pick): ignore and readme commit
+9799f2c HEAD@{21}: rebase -i (pick): third commit
+a7f66dc HEAD@{22}: commit (amend): Changed the second commmit
+311b9ef HEAD@{23}: cherry-pick: fast-forward
+6e61d9a HEAD@{24}: rebase -i (start): checkout HEAD~3
+7bc1777 HEAD@{25}: rebase -i (finish): returning to refs/heads/develop
+7bc1777 HEAD@{26}: rebase -i (start): checkout HEAD~3
+7bc1777 HEAD@{27}: rebase -i (finish): returning to refs/heads/develop
+7bc1777 HEAD@{28}: rebase -i (start): checkout HEAD~2
+7bc1777 HEAD@{29}: rebase -i (finish): returning to refs/heads/develop
+7bc1777 HEAD@{30}: rebase -i (start): checkout HEAD~2
+7bc1777 HEAD@{31}: commit: ignore and readme commit
+1ec27fc HEAD@{32}: checkout: moving from master to develop
+6e61d9a HEAD@{33}: checkout: moving from develop to master
+1ec27fc HEAD@{34}: reset: moving to HEAD^
+fb8a86e HEAD@{35}: reset: moving to HEAD^
+c8c6c41 HEAD@{36}: commit: Readme
+fb8a86e HEAD@{37}: commit: Readme
+1ec27fc HEAD@{38}: checkout: moving from master to develop
+6e61d9a HEAD@{39}: clone: from https://github.com/wasimqb/git-assignment.git
